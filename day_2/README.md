@@ -1,16 +1,16 @@
 # Day 2 - Arrays and Iteration
 
-Computers may not be smart, but they are good at doing many things *very* quickly, like working through lots of data. As such, we need a way to store lots of data. Today, you will learn about a Ruby data structure that let's us store collections of data: The Array. You will also learn about iteration, which is going through every element of an Array.
+Computers may not be smart, but they are good at doing many things *very* quickly, like working through lots of data. To take full advantage, we need a way to store lots of data. Today, you will learn about a Ruby data structure that let's us store collections of data: The Array. You will also learn about iteration, which is going through every element of an Array.
 
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work, and then put it in the cloud on Github.
 
 ## Open your local copy of backend_module_0_capstone
 
-Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. If you are having trouble with this, see the day_1 instructions.
+Using your terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit day_1 instructions for more detail if needed.
 
 ## Arrays
 
-1. Work through the [Arrays](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#7.-arrays) section of Ruby in 100 Minutes. As you work through this section, research each of the methods mentioned by looking through the Ruby docs for [Arrays](https://ruby-doc.org/core-2.4.1/Array.html). This documentation might seem intimidating at first, but you will need to get comfortable looking at it. Create a file in your day_2 directory called `array_methods.md file` and describe what each method does.
+1. Work through the [Arrays](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#7.-arrays) section of Ruby in 100 Minutes. As you work through this section, research each of the methods mentioned by looking through the Ruby docs for [Arrays](https://ruby-doc.org/core-2.4.1/Array.html). Documentation like this might look intimidating, but practicing finding information in them will build your comfort level. Create a file in your day_2 directory called `array_methods.md file` and describe what each method does.
 1. Work through the [Iteration and Each](http://backend.turing.io/module1/lessons/iteration_and_each) lesson.
 1. Work through the following lessons from Learn Ruby the Hard Way:
     1. [Booleans](https://learnrubythehardway.org/book/ex27.html) - just read through this lesson, you do not need to memorize anything, or create flashcards(unless you _really_ want to).
