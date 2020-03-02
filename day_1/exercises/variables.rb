@@ -1,5 +1,5 @@
-# In the exercises below, write your own code where indicated
-# to achieve the desired result. You should be able to run this
+# In the exercises below, write code where indicated
+# that achieves the desired result. To check your work, run this
 # file from your terminal with the command `ruby day_1/exercises/variables.rb`
 
 # example: Write code below to save your name to a variable and

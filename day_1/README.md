@@ -4,7 +4,7 @@ Today, you will begin to learn the basics of Ruby. You will work through several
 
 In addition to Ruby, this day will also walk you through the commands you need to enter in your terminal to create files. By the end of the day, you should be very comfortable with the commands `cd` and `ls` to navigate the machine, and the commands `mkdir` and `touch` to create directories and files on the machine.
 
-At the end of the day, you will use several git commands to save your work to your local git repository. Then you will push your updates to your remote Github repository. For now, we are building muscle memory with git commands and getting used to seeing what output they produce. We will dive deeper into the inner workings of git later. For now, all you need to do is follow along and know that we are using git to save our work, and Github to put it on the internet.
+After completing the days work, you will use several git commands to save your work to your local git repository. You will then push your updates to your remote Github repository. This helps to build muscle memory with git commands and get used to seeing the output they produce. We will dive deeper into the inner workings of git later. For now, most important is to follow along and know that we are using git to save our work, and Github to put it on the internet.
 
 ### This lesson will have you using Git, Github, etc. Here's a video walkthrough
 
@@ -35,7 +35,7 @@ This will open the day_1 directory in Atom. You should be able to see the direct
 1. Read [This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate from this introduction, DO NOT copy and paste the code examples. Actually type them.
 
 1. Follow these steps to complete your first Learn Ruby the Hard Way lesson: [A Good First Program](https://learnrubythehardway.org/book/ex1.html).
-    1. This lesson tells you to type code into a file called "ex1.rb". Create this file in your `day_1` directory. If you are in your `day_1` directory, you can do this with `touch ex1.rb`. If you are not in your `day_1` directory, first navigate to it using `cd` and `ls`, and then run `touch ex1.rb`
+    1. This lesson tells you to type code into a file called "ex1.rb". Create this file in your `day_1` directory. If you are in your `day_1` directory, you can do this with `touch ex1.rb`. If you are not in your `day_1` directory, first navigate to it using `cd`, check to make sure you got to that directory with `ls`, and then run `touch ex1.rb`
     1. Work through the lesson, **typing** the code into your "ex1.rb" file, and running it with `ruby ex1.rb`. Make sure you get similar output to what the lesson shows you. If you get an error saying "No such file or directory", make sure your "ex1.rb" file is in your day_1 directory, and that you are running `ruby ex1.rb` from that directory. You should see `ex1.rb` listed when you enter `ls`.
     1. Complete the Study Drills listed at the end of the lesson.
     1. Read the Common Student Questions section.

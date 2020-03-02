@@ -1,5 +1,5 @@
-# In the exercises below, write your own code where indicated
-# to achieve the desired result. You should be able to run this
+# In the exercises below, write code where indicated
+# that achieves the desired result. To check your work, run this
 # file from your terminal with the command `ruby day_1/exercises/interpolation.rb`
 
 # example: Write code that combines the variables below into another string:
