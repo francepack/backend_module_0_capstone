@@ -10,10 +10,10 @@ Using your terminal, open the local copy of the repository that you created duri
 
 ## Arrays
 
-1. Work through the [Arrays](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#7.-arrays) section of Ruby in 100 Minutes. As you work through this section, research each of the methods mentioned by looking through the Ruby docs for [Arrays](https://ruby-doc.org/core-2.4.1/Array.html). Documentation like this might look intimidating, but practicing finding information in them will build your comfort level. Create a file in your day_2 directory called `array_methods.md file` and describe what each method does.
+1. Work through the [Arrays](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#7.-arrays) section of Ruby in 100 Minutes. As you work through this section, research each of the methods mentioned by looking through the Ruby docs for [Arrays](https://ruby-doc.org/core-2.4.1/Array.html). Documentation like this might look intimidating, but practicing finding information in them will build your comfort level. Create a file in your day_2 directory called `array_methods.md` and describe what each method does.
 1. Work through the [Iteration and Each](http://backend.turing.io/module1/lessons/iteration_and_each) lesson.
 1. Work through the following lessons from Learn Ruby the Hard Way:
-    1. [Booleans](https://learnrubythehardway.org/book/ex27.html) - just read through this lesson, you do not need to memorize anything, or create flashcards(unless you _really_ want to).
+    1. [Booleans](https://learnrubythehardway.org/book/ex27.html) - just read through this lesson, you don't need to memorize everything by creating flashcards (unless you _really_ want to).
     1. [Boolean Practice](https://learnrubythehardway.org/book/ex28.html).
 1. Work through the exercise files in the day_2/exercises directory.  Complete them in this order:
     1. arrays
@@ -22,7 +22,7 @@ Using your terminal, open the local copy of the repository that you created duri
 
 ## Save your work in Git
 
-When you are finished with all of the day_2 activities, use your terminal to run the following commands in order to save your work to your local git repository.
+When you finish all of the day_2 activities, enter the following commands in your terminal in order to save your work to your local git repository:
 
 1. `$ git add day_2/exercises`
 1. `$ git add day_2/questions.md`
@@ -32,7 +32,7 @@ When you are finished with all of the day_2 activities, use your terminal to run
 
 ## Push to Github
 
-You've save your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Updating our **remote** Github repository with our **local** changes is called **pushing**. Push your code with the following command:
+You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Updating our **remote** Github repository with our **local** changes is called **pushing**. Push your code with the following command:
 
 ```
 git push origin master
