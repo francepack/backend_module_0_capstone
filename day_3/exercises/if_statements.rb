@@ -2,14 +2,14 @@
 # to achieve the desired result. You should be able to run this
 # file from your terminal with the command `ruby day_3/exercises/if_statements.rb`
 
-# example, using the weather variable below, determine what you need to take
+# Example: using the weather variable below, determine what you need to take
 # with you to be prepared based on the following conditions:
   # if it is sunny, print "sunscreen"
   # if it is rainy, print "umbrella"
   # if it is snowy, print "coat"
   # if it is icy, print "yak traks"
 
-  weather = 'hail'
+  weather = 'snowy'
 
   if weather == 'sunny'
     p "sunscreen"
@@ -19,8 +19,6 @@
     p "coat"
   elsif weather == 'icy'
     p "yak traks"
-  elsif weather == 'hail'
-    p "take cover!!!!"
   else
     p "good to go!"
   end
@@ -46,13 +44,8 @@
 
 num_quarters = 0
 
-if num_quarters >= 2 
-  puts "I have enough money for a gumball"
-elsif num_quarters < 2
-  puts "I don't have enough money for a gumball"
-else
-  puts 'Huh?'
-end
+puts "I have enough money for a gumball"
+puts "I don't have enough money for a gumball"
 
 
 #####################
@@ -68,11 +61,3 @@ end
 
 cups_of_flour = 1
 has_sauce = true
-
-if cups_of_flour >= 2 && has_sauce == true
-  puts "I can make pizza"
-elsif has_sauce != true || cups_of_flour < 2
-  puts "I cannot make pizza"
-else
-  puts 'Huh?'
-end
