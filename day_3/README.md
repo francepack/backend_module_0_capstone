@@ -23,7 +23,7 @@ Using your terminal, open your local copy of the forked repository you created d
 
 ## Save your work in Git
 
-When you are finished with all of the day_3 activities, use your terminal to run the following commands in order to save your work to your local git repository.
+When you are finished with all of the day_3 activities, enter the following commands in your terminal in order to save your work to your local git repository:
 
 1. `$ git add day_3/exercises`
 1. `$ git add day_3/questions.md`
@@ -33,7 +33,7 @@ When you are finished with all of the day_3 activities, use your terminal to run
 
 ## Push to Github
 
-Remember- You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Push your up to Github code with the following command:
+Remember- You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Push your code up to Github with the following command:
 
 ```
 git push origin master

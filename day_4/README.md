@@ -6,7 +6,7 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 ## Open your local copy of backend_module_0_capstone
 
-Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit day_1 instructions for more detail if needed.
+Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit [day_1](../Day_1) for more detail if needed.
 
 1. Work through the [Methods](https://launchschool.com/books/ruby/read/methods) lesson from LaunchSchool, up to the `obj.method or method(obj)` header.  Any files that you create while working through this lesson can be kept in the day_4 directory.
 
@@ -22,7 +22,7 @@ Using your terminal, open your local copy of the forked repository you created d
 
 ## Save your work in Git
 
-When you are finished with all of the day_4 activities, use your terminal to run the following commands in order to save your work to your local git repository.
+When you are finished with all of the day_4 activities, enter the following commands in your terminal in order to save your work to your local git repository:
 
 1. `$ git add day_4/exercises`
 1. `$ git add day_4/questions.md`
@@ -32,7 +32,7 @@ When you are finished with all of the day_4 activities, use your terminal to run
 
 ## Push to Github
 
-Remember- You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Push your up to Github code with the following command:
+Remember- You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Push your code up to Github with the following command:
 
 ```
 git push origin master

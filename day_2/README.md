@@ -32,7 +32,7 @@ When you finish all of the day_2 activities, enter the following commands in you
 
 ## Push to Github
 
-Remember- You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Push your up to Github code with the following command:
+Remember- You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Push your code up to Github with the following command:
 
 ```
 git push origin master
