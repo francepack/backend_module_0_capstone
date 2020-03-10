@@ -14,5 +14,5 @@ end
 end
 
 # Write code that prints the phrase 'She sells seashells down by the seashore'
-# ten times.
+# ten times:
 # YOUR CODE HERE

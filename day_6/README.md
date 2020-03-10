@@ -29,7 +29,7 @@ When you are finished with all of the day_6 activities, use your terminal to run
 
 ## Push to Github
 
-You've save your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Updating our **remote** Github repository with our **local** changes is called **pushing**. Push your code with the following command:
+Remember- You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Push your up to Github code with the following command:
 
 ```
 git push origin master

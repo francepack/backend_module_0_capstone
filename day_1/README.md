@@ -1,10 +1,10 @@
 # Day 1 - Strings and Numbers
 
-Today, you will begin to learn the basics of Ruby. You will work through several tutorials which will help you get comfortable running files and seeing output. You will also learn about two ways to represent data in Ruby: Strings and Numbers.
+Today, you will begin to learn the basics of Ruby. You will work through several tutorials which will help build your comfort running files and seeing output. You will also learn about two ways to represent data in Ruby: Strings and Numbers.
 
-In addition to Ruby, this day will also walk you through the commands you need to enter in your terminal to create files. By the end of the day, you should be very comfortable with the commands `cd` and `ls` to navigate the machine, and the commands `mkdir` and `touch` to create directories and files on the machine.
+In addition to learning Ruby basics, this day will also walk you through entering commands in the terminal to create files. By the end of the day, you should be very comfortable with the commands `cd` and `ls`, both very useful in navigating your machine, and the commands `mkdir` and `touch`, used to create directories and files on the machine.
 
-After completing the days work, you will use several git commands to save your work to your local git repository. You will then push your updates to your remote Github repository. This helps to build muscle memory with git commands and get used to seeing the output they produce. We will dive deeper into the inner workings of git later. For now, most important is to follow along and know that we are using git to save our work, and Github to put it on the internet.
+After completing the days work, you will use several git commands to save your work to your local git repository. You will then push your updates to your remote Github repository. Doing this each day will help you build muscle memory with git commands and get used to seeing the output they produce. We will dive deeper into the inner workings of git later. For now, most important is to follow along and know that we are using git to save our work, and Github to put it on the internet.
 
 ### This lesson will have you using Git, Github, etc. Here's a video walkthrough
 
@@ -12,7 +12,7 @@ After completing the days work, you will use several git commands to save your w
 
 ## Open your local copy of backend_module_0_capstone in Atom
 
-1. Using your terminal, open the local copy of this repo. To do this, enter these commands into your terminal:
+Using your terminal, open the local copy of this repo. To do this, enter these commands into your terminal:
 
 ```
 cd ~
@@ -32,32 +32,37 @@ This will open the day_1 directory in Atom. You should be able to see the direct
 
 ## Introduction to Ruby
 
-1. Read [This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate from this introduction, DO NOT copy and paste the code examples. Actually type them.
+- Read [This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate from this introduction, ***DO NOT*** copy and paste the code examples. Actually type each of them out.
 
-1. Follow these steps to complete your first Learn Ruby the Hard Way lesson: [A Good First Program](https://learnrubythehardway.org/book/ex1.html).
-    1. This lesson tells you to type code into a file called "ex1.rb". Create this file in your `day_1` directory. If you are in your `day_1` directory, you can do this with `touch ex1.rb`. If you are not in your `day_1` directory, first navigate to it using `cd`, check to make sure you got to that directory with `ls`, and then run `touch ex1.rb`
-    1. Work through the lesson, **typing** the code into your "ex1.rb" file, and running it with `ruby ex1.rb`. Make sure you get similar output to what the lesson shows you. If you get an error saying "No such file or directory", make sure your "ex1.rb" file is in your day_1 directory, and that you are running `ruby ex1.rb` from that directory. You should see `ex1.rb` listed when you enter `ls`.
-    1. Complete the Study Drills listed at the end of the lesson.
-    1. Read the Common Student Questions section.
+- Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial. For each lesson follow these directions closely:
 
-1. Follow these steps to complete [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
-    1. Create a file in your `day_1` directory called `ex2.rb`. If you are in your `day_1` directory, you can do this with `touch ex2.rb`. If you are not in your `day_1` directory, first navigate to it using `cd` and `ls`, and then run `touch ex2.rb`.
-    1. **Type** the code from the lesson into your "ex2.rb" file, and run it with `ruby ex2.rb`.
-    1. Complete the Study Drills listed at the end of the lesson.
-    1. Read the Common Student Questions section.
+1. Create a file within your `day_1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `ls`. If you are not, `cd` into your `day_1` directory. Once you are there, user the `touch` command in your terminal to create a file. For the first lesson, call this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, and so on, so forth. Refer to `day_0` if you need a refresher on terminal commands.
 
-1. Follow these steps to complete [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
+1. Work through the lesson, **typing** the code into your file, and running it in the terminal with `ruby your_file_name.rb`, replaceing your_file_name.rb with the actual file name that you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", make sure you verify where you are located in the terminal- running `ls` should show the file you are trying to run.
 
-    1. Create a file in your `day_1` directory called `ex3.rb`.
-    1. **Type** the code from the lesson into your "ex3.rb" file, and run it with `ruby ex3.rb`.
-    1. Complete the Study Drills listed at the end of the lesson.
-    1. Read the Common Student Questions section.
+1. Complete the Study Drills listed at the end of the lesson.
 
-1. Repeat the steps from the previous lessons for [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
-1. Repeat the steps from the previous lessons for [Strings](https://learnrubythehardway.org/book/ex5.html)
-1. Repeat the steps from the previous lessons for [More Strings](https://learnrubythehardway.org/book/ex6.html)
-1. Repeat the steps from the previous lessons for [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
-1. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
+1. Read the Common Student Questions section.
+
+- Next, check off the items below as you complete the steps you just read for each lesson:
+
+- [ ] [A Good First Program](https://learnrubythehardway.org/book/ex1.html)
+
+- [ ] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
+
+- [ ] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
+
+- [ ] [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
+
+- [ ] [Strings](https://learnrubythehardway.org/book/ex5.html)
+
+- [ ] [More Strings](https://learnrubythehardway.org/book/ex6.html)
+
+- [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
+
+You should be up to 7 files of work by the end!
+
+- Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
 
 ## Exercises
 
@@ -96,12 +101,12 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
 	ex1.rb
-	ex11.rb
 	ex2.rb
 	ex3.rb
 	ex4.rb
 	ex5.rb
 	ex6.rb
+  ex7.rb
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
@@ -139,16 +144,16 @@ Untracked files:
 	ex6.rb
 ```
 
-Under "Changes to be committed", It now lists "ex1.rb". This means that git is getting ready to save this file. We want to do this for each file.
+Under "Changes to be committed", "ex1.rb" is now listed. This means that git is now prepared to save this file. We want to do this for each file that has been modified.
 
 1. Enter `git add ex2.rb`
 1. Enter `git status`. "ex2.rb" should now be listed under "Changes to be committed".
-1. Do this for each of your "ex#.rb" files you created for Learn Ruby the Hard Way and your "questions.md" file.
+1. Do this for each of the "ex#.rb" files you created and for the "questions.md" file.
 1. Enter `git status`. Under "Changes not staged for commit", you should see all the files in the exercises directory.
 1. Enter `git add exercises`.
-1. Enter `git status`. You should now see all those exercises files listed under "Changes to be committed". We just used `git add <directory name>` to add all the files located in a directory.
-1. Enter `git status`. You should now see all your files listed under "Changes to be committed". If there are any files listed under "Untracked files" or "Changes not staged for commit", add them using "git add <file name>".
-1. Enter `git commit -m "Add day 1"`.
+1. Enter `git status`. You should now see all those exercises files listed under "Changes to be committed". We just used `git add <directory_name>` to add all the files located in a directory.
+1. Enter `git status`. You should now see all your files listed under "Changes to be committed". If there are any files listed under "Untracked files" or "Changes not staged for commit", add them using `git add <file_name>`.
+1. Enter `git commit -m "Add day 1"`. Don't forget to close the quotes of your message!
 1. Run `git status`. You should see this output:
 
 ```
@@ -156,7 +161,7 @@ On branch master
 nothing to commit, working tree clean
 ```
 
-Congratulations! You just saved your work to Git! If `git status` is showing any files, add them with `git add <file name>` and commit them with `git commit -m "Add day 1"`.
+Congratulations! You just saved your work to Git! If `git status` is showing any files, add them with `git add <file_name>` and commit them with `git commit -m "Add day 1"`.
 
 
 ## Push to Github

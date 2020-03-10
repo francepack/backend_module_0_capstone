@@ -15,7 +15,6 @@ Each day has a folder containing a `README.md` file with instructions for the da
 * [Day 6 - Classes](day_6)
 * [Day 7 - Build A Thing](day_7)
 
-
 # Environment
 
 Before we can experiment with the concepts we will learn in Mod0, we need to do a little more setup to prepare a Ruby-specific development environment.
@@ -195,7 +194,6 @@ Cloning is when you copy a remote Github repository to your local computer.
 
 ![clone down your copy](/images/fork_03.jpg)
 
-
 #### 2. If you see `Clone with HTTPS` click on `Use SSH`
 
 #### 3. Click on the copy icon to copy the SSH link to your clipboard.
@@ -229,15 +227,13 @@ We've got _another_ video walk-through of these steps here:
 
 [![Walkthrough Day 1 and Git stuff](/images/backend-prework-day-one-thumb.jpg)](https://youtu.be/HYAzk6L63ek "Video Walkthrough for Day 1 & Git Stuff")
 
-
 Each day's `README` will walk you through the necessary steps to save your work.
 
 To begin, open your terminal and `cd` into the `day_0` directory. Follow the instructions contained in the `README.md` file, and have fun experimenting!
 
 ----------------------------------
 
-
-# Extension (optional, when capstone is complete)
+# Extension (optional, after capstone completed)
 
 So you're done! You've finished your first Mod 0 Capstone assignment!
 
