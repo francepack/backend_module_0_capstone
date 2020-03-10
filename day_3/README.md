@@ -6,8 +6,9 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 ## Open your local copy of backend_module_0_capstone
 
-Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit day_1 instructions for more detail if needed.
+Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit [day_1](../Day_1) for more detail if needed.
 
+## If statement and Loop Lessons
 
 1. Work through the following lessons from Learn Ruby the Hard Way.
 

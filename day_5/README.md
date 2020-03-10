@@ -1,12 +1,14 @@
 # Day 5 - Hashes
 
-Earlier in the week, you learned about one type of collection storage - Arrays.  Today, you will learn about another collection storage device call a Hash. We use hashes on a near daily basis as programmers and understanding how to build hashes and how to retrieve information from a hash can make your life as a programmer much easier.
+Earlier in the week, you learned about one type of collection storage - Arrays.  Today, you will learn about another collection storage device called a Hash. As professional developers, you will use hashes on a near daily basis- a solid understanding of how to build hashes and how to retrieve information from them will make life much easier.
 
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to Github.
 
 ## Open your local copy of backend_module_0_capstone
 
 Using your terminal, open your local copy of the forked repository you created during setup. Hopefully you are getting the hang of this, but revisit [day_1](../Day_1) for more detail if needed.
+
+## Hash Lessons
 
 1. Work through the [Hashes](https://learnrubythehardway.org/book/ex39.html) lesson from Learn Ruby the Hard Way.
 

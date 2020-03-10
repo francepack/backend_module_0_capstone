@@ -6,9 +6,9 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 ## Open your local copy of backend_module_0_capstone
 
-Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit day_1 instructions for more detail if needed.
+Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit [day_1](../Day_1) for more detail if needed.
 
-## Arrays
+## Array and Iteration Lessons
 
 1. Work through the [Arrays](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#7.-arrays) section of Ruby in 100 Minutes. As you work through this section, research each of the methods mentioned by looking through the [Ruby docs for Arrays](https://ruby-doc.org/core-2.4.1/Array.html). Documentation like this might look intimidating, but diving in and practicing now will build your comfort level. Create a file in your day_2 directory called `array_methods.md` and describe what each method does in your own words.
 1. Work through the [Iteration and Each](http://backend.turing.io/module1/lessons/iteration_and_each) lesson.

@@ -7,11 +7,17 @@ When you are all done with the lessons, exercises, and questions for today, you 
 ## Open your local copy of backend_module_0_capstone
 Using your terminal, open your local copy of the forked repository you created during setup. Hopefully you are getting the hang of this, but revisit [day_1](../Day_1) for more detail if needed.
 
-1. Work through the [What Are Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#whatareobjects) and [Classes Defining Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#classesdefineobjects) sections of the Object Model Lesson from LaunchSchool. Any files that you create while working through this lesson can be kept in the day_6 directory.
+## Class lessons
 
-1. Work through the [Classes and Objects Part 1](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1) lesson from LaunchSchool.
+1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-1. Work through the [Objects, Attributes and Methods](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#11.-objects,-attributes,-and-methods) lesson from Ruby in 100 Minutes. Any files that you create while working through this lesson can be kept in the day_6 directory.
+- [ ] [What Are Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#whatareobjects) - section of the Object Model Lesson from LaunchSchool
+
+- [ ] [Classes Defining Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#classesdefineobjects) - section of the Object Model Lesson from LaunchSchool.
+
+- [ ] [Classes and Objects Part 1](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1) lesson from LaunchSchool.
+
+- [ ] [Objects, Attributes and Methods](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#11.-objects,-attributes,-and-methods) lesson from Ruby in 100 Minutes.
 
 1. Work through the files in the day_6/exercises directory.
 

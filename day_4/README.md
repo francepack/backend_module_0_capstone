@@ -8,6 +8,8 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit [day_1](../Day_1) for more detail if needed.
 
+## Method Lessons
+
 1. Work through the [Methods](https://launchschool.com/books/ruby/read/methods) lesson from LaunchSchool, up to the `obj.method or method(obj)` header.  Any files that you create while working through this lesson can be kept in the day_4 directory.
 
 1. Work through the following lessons from Learn Ruby the Hard Way. _*Note*: in these lessons, the author refers to methods as functions. We will be using the vocabulary word method at Turing_
