@@ -1,6 +1,7 @@
-# In the exercises below, write code where indicated
-# that achieves the desired result. To check your work, run this
-# file from your terminal with the command `ruby day_1/exercises/numbers.rb`
+# In the below exercises, write code that achieves
+# the desired result. To check your work, run this
+# file by entering the following command in your terminal:
+# `ruby day_1/exercises/numbers.rb`
 
 # example print the result of the sum of 2 and 2 to the terminal:
 p 2 + 2

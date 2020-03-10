@@ -1,6 +1,7 @@
-# In the exercises below, write code where indicated
-# that achieves the desired result. To check your work, run this
-# file from your terminal with the command `ruby day_1/exercises/variables.rb`
+# In the below exercises, write code that achieves
+# the desired result. To check your work, run this
+# file by entering the following command in your terminal: 
+# `ruby day_1/exercises/variables.rb`
 
 # example: Write code below to save your name to a variable and
 # print that variable to the terminal:

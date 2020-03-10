@@ -1,6 +1,7 @@
-# In the exercises below, write your own code where indicated
-# to achieve the desired result. You should be able to run this
-# file from your terminal with the command `ruby day_4/exercises/methods.rb`
+# In the below exercises, write code that achieves
+# the desired result. To check your work, run this
+# file by entering the following command in your terminal:
+# `ruby day_4/exercises/methods.rb`
 
 # example: Write a method below that, when called will print your name
 def print_name
