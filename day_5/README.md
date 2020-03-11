@@ -6,15 +6,15 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 ## Open your local copy of backend_module_0_capstone
 
-Using your terminal, open your local copy of the forked repository you created during setup. Hopefully you are getting the hang of this, but revisit [day_1](../Day_1) for more detail if needed.
+Using your terminal, open your local copy of the forked repository you created during setup. Hopefully you are getting the hang of this, but revisit [day_1](../day_1) for more detail if needed.
 
 ## Hash Lessons
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory. 
 
-  - [ ] [Hashes](https://learnrubythehardway.org/book/ex39.html) from Learn Ruby the Hard Way.
+    - [ ] [Hashes](https://learnrubythehardway.org/book/ex39.html) from Learn Ruby the Hard Way.
 
-  - [ ] [Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes) from Ruby in 100 minutes.
+    - [ ] [Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes) from Ruby in 100 minutes.
 
 1. Work through the hashes.rb file in the day_5/exercises directory.
 

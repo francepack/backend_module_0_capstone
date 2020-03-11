@@ -6,7 +6,7 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 ## Open your local copy of backend_module_0_capstone
 
-Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit [day_1](../Day_1) for more detail if needed.
+Using your terminal, open your local copy of the forked repository you created during setup.  To do this, you will need to use the terminal command `cd` to enter the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the prework repository. Revisit [day_1](../day_1) for more detail if needed.
 
 ## Method Lessons
 
@@ -14,13 +14,13 @@ Using your terminal, open your local copy of the forked repository you created d
 
 _*Note*: In some of these lessons, the author refers to methods as functions. They are interchangable here, but at Turing, we will be use the word `method`._
 
-  - [ ] [Methods](https://launchschool.com/books/ruby/read/methods) from LaunchSchool. Work up to the `obj.method or method(obj)` header. 
+    - [ ] [Methods](https://launchschool.com/books/ruby/read/methods) from LaunchSchool. Work up to the `obj.method or method(obj)` header. 
 
-  - [ ] [Intro to Methods](https://learnrubythehardway.org/book/ex18.html) from Learn Ruby the Hard Way.
+    - [ ] [Intro to Methods](https://learnrubythehardway.org/book/ex18.html) from Learn Ruby the Hard Way.
 
-  - [ ] [Methods and Variables](https://learnrubythehardway.org/book/ex19.html) from Learn Ruby the Hard Way.
+    - [ ] [Methods and Variables](https://learnrubythehardway.org/book/ex19.html) from Learn Ruby the Hard Way.
 
-  - [ ] [Methods and Return Values](https://learnrubythehardway.org/book/ex21.html) from Learn Ruby the Hard Way.
+    - [ ] [Methods and Return Values](https://learnrubythehardway.org/book/ex21.html) from Learn Ruby the Hard Way.
 
 1. Work through the methods.rb file in the day_4/exercises directory.
 

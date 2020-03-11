@@ -85,67 +85,67 @@ When you are finished with all of the day_1 activities, follow these steps in or
 
 1. In your terminal, enter `git status`. You should see output like this:
 
-  ```
-  On branch master
-  Changes not staged for commit:
-    (use "git add <file>..." to update what will be committed)
-    (use "git checkout -- <file>..." to discard changes in working directory)
+    ```
+    On branch master
+    Changes not staged for commit:
+      (use "git add <file>..." to update what will be committed)
+      (use "git checkout -- <file>..." to discard changes in working directory)
 
-    modified:   exercises/interpolation.rb
-    modified:   exercises/loops.rb
-    modified:   exercises/numbers.rb
-    modified:   exercises/strings.rb
-    modified:   exercises/variables.rb
-    modified:   questions.md
+      modified:   exercises/interpolation.rb
+      modified:   exercises/loops.rb
+      modified:   exercises/numbers.rb
+      modified:   exercises/strings.rb
+      modified:   exercises/variables.rb
+      modified:   questions.md
 
-  Untracked files:
-    (use "git add <file>..." to include in what will be committed)
+    Untracked files:
+      (use "git add <file>..." to include in what will be committed)
 
-    ex1.rb
-    ex2.rb
-    ex3.rb
-    ex4.rb
-    ex5.rb
-    ex6.rb
-    ex7.rb
+      ex1.rb
+      ex2.rb
+      ex3.rb
+      ex4.rb
+      ex5.rb
+      ex6.rb
+      ex7.rb
 
-  no changes added to commit (use "git add" and/or "git commit -a")
-  ```
+    no changes added to commit (use "git add" and/or "git commit -a")
+    ```
 
-  The command `git status` shows us information about files we changed. Don't worry too much about understanding what this all means just yet. What's important is that you get comfortable typing `git status` often.
+    The command `git status` shows us information about files we changed. Don't worry too much about understanding what this all means just yet. What's important is that you get comfortable typing `git status` often.
 
 1. Enter `git add ex1.rb`.
 1. Enter `git status`. Your status should now look a little different:
 
-  ```On branch master
-  Changes to be committed:
-    (use "git reset HEAD <file>..." to unstage)
+    ```On branch master
+    Changes to be committed:
+      (use "git reset HEAD <file>..." to unstage)
 
-    new file:   ex1.rb
+      new file:   ex1.rb
 
-  Changes not staged for commit:
-    (use "git add <file>..." to update what will be committed)
-    (use "git checkout -- <file>..." to discard changes in working directory)
+    Changes not staged for commit:
+      (use "git add <file>..." to update what will be committed)
+      (use "git checkout -- <file>..." to discard changes in working directory)
 
-    modified:   exercises/interpolation.rb
-    modified:   exercises/loops.rb
-    modified:   exercises/numbers.rb
-    modified:   exercises/strings.rb
-    modified:   exercises/variables.rb
-    modified:   questions.md
+      modified:   exercises/interpolation.rb
+      modified:   exercises/loops.rb
+      modified:   exercises/numbers.rb
+      modified:   exercises/strings.rb
+      modified:   exercises/variables.rb
+      modified:   questions.md
 
-  Untracked files:
-    (use "git add <file>..." to include in what will be committed)
+    Untracked files:
+      (use "git add <file>..." to include in what will be committed)
 
-    ex2.rb
-    ex3.rb
-    ex4.rb
-    ex5.rb
-    ex6.rb
-    ex7.rb
-  ```
+      ex2.rb
+      ex3.rb
+      ex4.rb
+      ex5.rb
+      ex6.rb
+      ex7.rb
+    ```
 
-  Under "Changes to be committed", "ex1.rb" is now listed. This means that git is now prepared to save this file. We want to do this for each file that has been modified.
+    Under "Changes to be committed", "ex1.rb" is now listed. This means that git is now prepared to save this file. We want to do this for each file that has been modified.
 
 1. Enter `git add ex2.rb`
 1. Enter `git status`. "ex2.rb" should now be listed under "Changes to be committed".

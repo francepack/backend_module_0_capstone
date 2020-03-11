@@ -5,7 +5,7 @@ Congrats on making it through the first 6 days of Prework! Today, you will put t
 When you have completed the activities for day 7, you will follow instructions to submit your work through a GitHub Pull Request.
 
 ## Open your local copy of backend_module_0_capstone
-Using your terminal, open your local copy of the forked repository you created during setup. Hopefully you are getting the hang of this, but revisit [day_1](../Day_1) for more detail if needed.
+Using your terminal, open your local copy of the forked repository you created during setup. Hopefully you are getting the hang of this, but revisit [day_1](../day_1) for more detail if needed.
 
 ## Make a Program
 
