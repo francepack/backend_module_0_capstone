@@ -32,17 +32,30 @@ When you have completed *all* the activities described above, follow the steps b
 1. Go to *your* prework repository on GitHub
 1. click on `New Pull Request` per the image below:
 
-![New PR](https://i.imgur.com/lGKNxwC.png)
+    ![New PR](https://i.imgur.com/lGKNxwC.png)
 
-2. On the Pull Request page, make sure you see something similar to below (but with your username):
+1. On the Pull Request page, make sure you see something similar to below (but with your username):
 
-![New PR](https://i.imgur.com/CwJH8os.png)
+    ![New PR](https://i.imgur.com/CwJH8os.png)
 
-3. Click on `Create New Pull Request` (circled in the image above).
-4. Enter `YOUR NAME` as the title of the pull request, and click `Create pull request` as shown below:
+1. Click on `Create New Pull Request` (circled in the image above).
+1. Enter `YOUR NAME` as the title of the pull request, and click `Create pull request` as shown below:
 
-![Create PR](https://i.imgur.com/CQQzfNc.png)
+    ![Create PR](https://i.imgur.com/CQQzfNc.png)
 
-5. Please complete ***[this form](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work)*** to submit your prework. Be sure to include links to your Professional Development pre-work gist, your Gear Up pre-work gist, and your technical pre-work GitHub repository. The link to your technical pre-work GitHub repository will look something like: `https://github.com/YOUR_GITHUB_USERNAME/backend_module_0_capstone`. (using your own GitHub username, of course!)
+1. Please complete ***[this form](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work)*** to submit your prework. Be sure to include links to your Professional Development pre-work gist, your Gear Up pre-work gist, and your technical pre-work GitHub repository. The link to your technical pre-work GitHub repository will look something like: `https://github.com/YOUR_GITHUB_USERNAME/backend_module_0_capstone`. (using your own GitHub username, of course!)
 
 And with that form submission, you're done! Any feedback will be Slacked to you. Can't wait to see you on the first day of class!!
+
+----------------------------------
+
+# Extension (optional, after capstone completed)
+
+So you're done! You've finished your Mod 0 Capstone assignment!
+
+If you're interested in challenging yourself _even more_ and getting a step ahead in your coding abilities before your first day, we recommend working on either:
+
+- [A back-end grad's advice and useful study resources](https://josh.works/turing-backend-prep-01-intro)
+- [Credit Check](https://github.com/turingschool-examples/credit_check).
+
+If you do Credit Check, follow the [same steps](#forking-the-module-0-capstone-repository) as you did previously to fork and clone this repo on to your local computer.

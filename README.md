@@ -2,7 +2,7 @@
 
 This repository will walk you through the Mod 0 Capstone for the Backend program at Turing.
 
-Each day has a folder containing a `README.md` file with instructions for the day, exercises, and questions. You must complete all the exercises and questions.
+Each day has a folder containing a `README.md` file with instructions for the day, exercises, and questions. Please complete all the exercises and questions, as well as lessons listed in the day's readme.
 
 ### Pre-work Index
 
@@ -17,13 +17,13 @@ Each day has a folder containing a `README.md` file with instructions for the da
 
 # Environment
 
-Before we can experiment with the concepts we will learn in Mod0, we need to do a little more setup to prepare a Ruby-specific development environment.
+Before we can experiment with coding with the concepts we will learn in Mod0, we need to do a bit more setup to prepare a Ruby-specific development environment.
 
-Follow this guide step by step to make sure you have what you need, then you can finish by getting started on the first day of homework.
+Follow this guide step-by-step to make sure you have everything you need, then you will be ready to start your first day or work!
 
-Before proceeding, if you have not already, complete the [mod-0 environment setup instructions](http://mod0.turing.io/setup-instructions) to install Atom, xcode-select, Homebrew, git, and Chrome.
+***Before proceeding***, if you have not already, complete the [mod-0 environment setup instructions](http://mod0.turing.io/setup-instructions) to install Atom, xcode-select, Homebrew, git, and Chrome.
 
-Here's what is covered:
+We will be going over these 3 things below:
 
 *   [Installing Rbenv - a Ruby Version Manager](#set-up-ruby-environment-manager-rbenv)
 *   [Installing Ruby Versions using Rbenv](#use-rbenv-to-install-a-certain-version-of-ruby)
@@ -36,12 +36,11 @@ First, let's get a Ruby version management tool on our machines.
 
 Over the years, Ruby has evolved through new version releases that contain new features and upgrades. Version 0.95, the very first, was released in 1995, and at the beginning of year 2020, we're at version 2.7.
 
-Generally, programs written in one version of Ruby will run just fine on another version,
-but sometimes you can encounter incompatibilities, meaning that program will need to be run with a specific version of Ruby.
+Generally, programs written in one version of Ruby will run just fine on another version, but sometimes incompatibilities can be encountered, meaning that particular program needs to be run with a specific version of Ruby.
 
-Additionally, there are some very useful tools out there called "gems" that we can use while writing code (specifically, the `pry` gem is very handy) and we cannot utilize these without first installing and configuring `rbenv`.
+Additionally, very useful tools called "gems" are out there that were created specifically to help developers code (specifically, the `pry` gem is very handy) and we cannot utilize these without first installing and configuring `rbenv`.
 
-For compatability and the use of "gems", we'd like to be able to install and manage multiple versions of Ruby on our system. This is precisely what `rbenv` handles.
+To solve potential compatability issues, we'd like to be able to install and manage multiple versions of Ruby on our system. We would also like to be able to use gems across different versions of Ruby. These are the kinds of things `rbenv` handles.
 
 #### Installation
 
@@ -90,7 +89,7 @@ This command will open up your `bash_profile` in Atom so you can edit it. Copy t
 
 Check to see if you did this step correctly by switching back to your terminal and typing `cat ~/.bash_profile`. You should see `eval "$(rbenv init -)"` at the bottom of the output.
 
-Close your terminal and reopen it. This is a very important step since the bash profile is loaded each time a new terminal window is opened.
+After, *close your terminal and reopen it.* This is a very important step since the bash profile is loaded each time a new terminal window is opened.
 
 Now, check to make sure rbenv was installed properly. In your terminal, type:
 
@@ -162,7 +161,9 @@ $ rbenv rehash
 
 ## Terminal
 
-We will be referencing many terminal commands throughout the prework. It is recommended that you practice using terminal commands before getting started with day_1. Luckily, [day_0 exists just for this purpose](day_0).
+We will be referencing many terminal commands throughout the prework. It is recommended that you practice using terminal commands before getting started with day_1. 
+
+[Check out day_0 to practice!](day_0)
 
 ### Forking the Module 0 Capstone Repository
 
@@ -186,7 +187,7 @@ Check [github help](https://help.github.com/en/github/getting-started-with-githu
 
 ## Clone down this new repository
 
-Now that you have forked this repository, the next thing to do is *clone your forked repository*.
+Now that you have forked this repository, the next thing to do is *clone* your forked repository.
 
 Cloning is when you copy a remote Github repository to your local computer.
 
@@ -221,9 +222,9 @@ On branch master
 nothing to commit, working tree clean
 ```
 
-From here on out, all the work you do will be in your personal copy of this repository. Throughout Mod0 and the capstone, we may call this your "prework repository" or "backend prework"... this refers to your forked copy of this `backend_module_0_capstone` repository that you have now cloned to your device.
+From here on out, all the work you do will be in your personal copy of this repository. Throughout Mod0 and the capstone, we may call this your "prework repository" or "backend prework"... this refers to your forked copy of this `backend_module_0_capstone` repository that you have just now cloned to your device.
 
-We've got _another_ video walk-through of these steps here:
+Here's _another_ video walk-through you may find helpful:
 
 [![Walkthrough Day 1 and Git stuff](/images/backend-prework-day-one-thumb.jpg)](https://youtu.be/HYAzk6L63ek "Video Walkthrough for Day 1 & Git Stuff")
 
@@ -235,7 +236,7 @@ To begin, open your terminal and `cd` into the `day_0` directory. Follow the ins
 
 # Extension (optional, after capstone completed)
 
-So you're done! You've finished your first Mod 0 Capstone assignment!
+So you're done! You've finished your Mod 0 Capstone assignment!
 
 If you're interested in challenging yourself _even more_ and getting a step ahead in your coding abilities before your first day, we recommend working on either:
 
