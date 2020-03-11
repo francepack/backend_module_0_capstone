@@ -32,19 +32,21 @@ This will open the day_1 directory in Atom. You should be able to see the direct
 
 ## An Introduction to Ruby
 
-1. Read [This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate from this introduction, ***DO NOT*** copy and paste code examples when working through lessons in your capstone. Actually type each of them out.
+[Read This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate this introduction, ***DO NOT*** copy and paste code examples when working through lessons in your capstone. Actually type each of them out.
+
+### Ruby Basics Lessons
 
 1. Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial. *For ***each*** lesson* ***follow these directions closely***:
 
-    1. Create a file within your `day_1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `ls`. If you are not, `cd` into your `day_1` directory. Once you are there, use the `touch` command in your terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth. Refer to back to [day_0](../Day_0) if you need a refresher on terminal commands.
+    1. Create a file within your `day_1/exercises` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `ls`- You should see several `.rb` files come up. If you are not, `cd` into your `day_1` directory, then into `exercises`. Once you are there, use the `touch` command in your terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth. Refer to back to [day_0](../day_0) if you need a refresher on terminal commands.
 
-    1. Work through the lesson, **typing** the code into your file, and running it in the terminal with `ruby your_file_name.rb`, replaceing your_file_name.rb with the actual file name that you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", be sure to verify the directory you are located in via the terminal- running command `ls` should show the file you are trying to run.
+    1. Work through the lesson, **typing** the code into your file, and running it in the terminal with `ruby ex1.rb`, replacing `ex1` with the actual file name of what you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", be sure to verify the directory you are located in via the terminal- running command `ls` should show the file you are trying to run.
 
     1. Complete the Study Drills listed at the end of the lesson.
 
     1. Read the Common Student Questions section.
 
-1. Check off the items below as you complete the steps you just read for each lesson:
+1. Check off the items below as you complete the steps you just read for each lesson. ***Remember to create a file containing your work for each lesson!***
 
     - [ ] [A Good First Program](https://learnrubythehardway.org/book/ex1.html) 
 
@@ -60,7 +62,7 @@ This will open the day_1 directory in Atom. You should be able to see the direct
 
     - [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html) 
 
-    - [ ] Have you created 7 example files with your code in them?
+    - [ ] Have you created 7 `ex.rb` files with your code in them?
 
 1. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
 
