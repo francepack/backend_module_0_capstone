@@ -30,43 +30,42 @@ atom .
 
 This will open the day_1 directory in Atom. You should be able to see the directory and its contents in the file explorer on the left side of your Atom window.
 
-## Introduction to Ruby
+## An Introduction to Ruby
 
-- Read [This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate from this introduction, ***DO NOT*** copy and paste the code examples. Actually type each of them out.
+1. Read [This Introduction](https://learnrubythehardway.org/book/intro.html) to the Learn Ruby The Hard Way Tutorial. To reiterate from this introduction, ***DO NOT*** copy and paste code examples when working through lessons in your capstone. Actually type each of them out.
 
-- Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial. For each lesson follow these directions closely:
+1. Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial. For each lesson follow these directions closely:
 
-1. Create a file within your `day_1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `ls`. If you are not, `cd` into your `day_1` directory. Once you are there, user the `touch` command in your terminal to create a file. For the first lesson, call this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, and so on, so forth. Refer to `day_0` if you need a refresher on terminal commands.
+- Create a file within your `day_1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `ls`. If you are not, `cd` into your `day_1` directory. Once you are there, user the `touch` command in your terminal to create a file. For the first lesson, call this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, and so on, so forth. Refer to `day_0` if you need a refresher on terminal commands.
 
-1. Work through the lesson, **typing** the code into your file, and running it in the terminal with `ruby your_file_name.rb`, replaceing your_file_name.rb with the actual file name that you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", make sure you verify where you are located in the terminal- running `ls` should show the file you are trying to run.
+- Work through the lesson, **typing** the code into your file, and running it in the terminal with `ruby your_file_name.rb`, replaceing your_file_name.rb with the actual file name that you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", make sure you verify where you are located in the terminal- running `ls` should show the file you are trying to run.
 
-1. Complete the Study Drills listed at the end of the lesson.
+- Complete the Study Drills listed at the end of the lesson.
 
-1. Read the Common Student Questions section.
+- Read the Common Student Questions section.
 
-- Next, check off the items below as you complete the steps you just read for each lesson:
+1. Check off the items below as you complete the steps you just read for each lesson:
 
-- [ ] [A Good First Program](https://learnrubythehardway.org/book/ex1.html)
+- [ ] [A Good First Program](https://learnrubythehardway.org/book/ex1.html) 
 
 - [ ] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
 
-- [ ] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
+- [ ] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html) 
 
-- [ ] [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
+- [ ] [Variables and Names](https://learnrubythehardway.org/book/ex4.html) 
 
 - [ ] [Strings](https://learnrubythehardway.org/book/ex5.html)
 
-- [ ] [More Strings](https://learnrubythehardway.org/book/ex6.html)
+- [ ] [More Strings](https://learnrubythehardway.org/book/ex6.html) 
 
-- [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
+- [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html) 
 
-You should be up to 7 files of work by the end!
-
-- Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
+1. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
 
 ## Exercises
+Each day contains an exercises directory containing files where you will practice writing code.
 
-1. Work through the exercise files in the day_1/exercises directory.  Complete them in this order:
+- Work through the files in the day_1/exercises directory.  Complete them in this order:
     1. strings
     1. numbers
     1. variables
@@ -74,14 +73,16 @@ You should be up to 7 files of work by the end!
     1. loops
 
 ## Questions
+Each day contains a questions.md file where you will answer questions about what you have learned.
 
-1. Answer the questions in the questions.md file in the day_1 directory. The .md file extension for this file refers to markdown formatting. Markdown is a simple markup language to help format your text. [This article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) shows everything you need for basic markdown formatting.
+- Answer the day 1 questions within the questions.md file. The `.md` file extension refers to markdown formatting. Markdown is a simple markup language to help format your text. [This article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) shows everything you need for basic markdown formatting.
 
 ## Save your work in Git
 
 When you are finished with all of the day_1 activities, follow these steps in order to save your work to your local git repository.
 
-1. Make sure you are in your `day_1` directory. When you enter `ls` in your terminal, you should see the exercises directory listed, as well as README.md, questions.md, and all of the files you created while working through Learn Ruby the Hard Way i.e. "ex1.rb", "ex2.rb", etc.
+1. Make sure you are in your `day_1` directory. Enter `ls` in your terminal- You should see the exercises directory, README.md, and questions.md all listed.
+
 1. In your terminal, enter `git status`. You should see output like this:
 
 ```
@@ -136,12 +137,12 @@ Changes not staged for commit:
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
-	ex11.rb
 	ex2.rb
 	ex3.rb
 	ex4.rb
 	ex5.rb
 	ex6.rb
+  ex7.rb
 ```
 
 Under "Changes to be committed", "ex1.rb" is now listed. This means that git is now prepared to save this file. We want to do this for each file that has been modified.

@@ -10,13 +10,17 @@ Using your terminal, open your local copy of the forked repository you created d
 
 ## Method Lessons
 
-1. Work through the [Methods](https://launchschool.com/books/ruby/read/methods) lesson from LaunchSchool, up to the `obj.method or method(obj)` header.  Any files that you create while working through this lesson can be kept in the day_4 directory.
+1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-1. Work through the following lessons from Learn Ruby the Hard Way. _*Note*: in these lessons, the author refers to methods as functions. We will be using the vocabulary word method at Turing_
+_*Note*: In some of these lessons, the author refers to methods as functions. They are interchangable here, but at Turing, we will be use the word `method`._
 
-    1. [Intro to Methods](https://learnrubythehardway.org/book/ex18.html)
-    1. [Methods and Variables](https://learnrubythehardway.org/book/ex19.html)
-    1. [Methods and Return Values](https://learnrubythehardway.org/book/ex21.html)
+- [ ] [Methods](https://launchschool.com/books/ruby/read/methods) from LaunchSchool. Work up to the `obj.method or method(obj)` header. 
+
+- [ ] [Intro to Methods](https://learnrubythehardway.org/book/ex18.html) from Learn Ruby the Hard Way.
+
+- [ ] [Methods and Variables](https://learnrubythehardway.org/book/ex19.html) from Learn Ruby the Hard Way.
+
+- [ ] [Methods and Return Values](https://learnrubythehardway.org/book/ex21.html) from Learn Ruby the Hard Way.
 
 1. Work through the methods.rb file in the day_4/exercises directory.
 

@@ -11,13 +11,18 @@ Using your terminal, open your local copy of the forked repository you created d
 ## Array and Iteration Lessons
 
 1. Work through the [Arrays](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#7.-arrays) section of Ruby in 100 Minutes. As you work through this section, research each of the methods mentioned by looking through the [Ruby docs for Arrays](https://ruby-doc.org/core-2.4.1/Array.html). Documentation like this might look intimidating, but diving in and practicing now will build your comfort level. Create a file in your day_2 directory called `array_methods.md` and describe what each method does in your own words.
-1. Work through the [Iteration and Each](http://backend.turing.io/module1/lessons/iteration_and_each) lesson.
-1. Work through the following lessons from Learn Ruby the Hard Way:
-    1. [Booleans](https://learnrubythehardway.org/book/ex27.html) - just read through this lesson, you don't need to memorize everything by creating flashcards (unless you _really_ want to).
-    1. [Boolean Practice](https://learnrubythehardway.org/book/ex28.html).
+1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
+
+- [ ] Turing's [Iteration and Each](http://backend.turing.io/module1/lessons/iteration_and_each) lesson.
+
+- [ ] [Booleans](https://learnrubythehardway.org/book/ex27.html) from Learn Ruby the Hard Way.
+
+- [ ] [Boolean Practice](https://learnrubythehardway.org/book/ex28.html) from Learn Ruby the Hard Way.
+
 1. Work through the exercise files in the day_2/exercises directory.  Complete them in this order:
     1. arrays
     1. iteration
+
 1. Answer the questions in the questions.md file in the day_2 directory.
 
 ## Save your work in Git

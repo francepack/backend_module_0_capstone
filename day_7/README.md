@@ -7,6 +7,8 @@ When you have completed the activities for day 7, you will follow instructions t
 ## Open your local copy of backend_module_0_capstone
 Using your terminal, open your local copy of the forked repository you created during setup. Hopefully you are getting the hang of this, but revisit [day_1](../Day_1) for more detail if needed.
 
+## Make a Program
+
 1. Using what you have learned in the last week, complete both of the projects below. Put any files related to the projects you choose in a day_7 directory.
 
     1. [FizzBuzz](./fizzbuzz.md)
