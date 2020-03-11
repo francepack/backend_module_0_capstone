@@ -17,13 +17,13 @@ Each day has a folder containing a `README.md` file with instructions for the da
 
 # Environment
 
-Before we can experiment with coding with the concepts we will learn in Mod0, we need to do a bit more setup to prepare a Ruby-specific development environment.
+Before we can experiment with coding out the concepts we will learn in Mod0, we need to do a bit more setup to prepare a Ruby-specific development environment.
 
-Follow this guide step-by-step to make sure you have everything you need, then you will be ready to start your first day or work!
+Follow this guide step-by-step to make sure you have everything you need, then you will be ready to start your first day of work!
 
 ***Before proceeding***, if you have not already, complete the [mod-0 environment setup instructions](http://mod0.turing.io/setup-instructions) to install Atom, xcode-select, Homebrew, git, and Chrome.
 
-We will be going over these 3 things below:
+We will now cover these three topics:
 
 *   [Installing Rbenv - a Ruby Version Manager](#set-up-ruby-environment-manager-rbenv)
 *   [Installing Ruby Versions using Rbenv](#use-rbenv-to-install-a-certain-version-of-ruby)
@@ -34,7 +34,7 @@ First, let's get a Ruby version management tool on our machines.
 
 ## Set up Ruby Environment Manager: [rbenv](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x)
 
-Over the years, Ruby has evolved through new version releases that contain new features and upgrades. Version 0.95, the very first, was released in 1995, and at the beginning of year 2020, we're at version 2.7.
+Over the years, Ruby has evolved through various version releases over time that contain new features and upgrades. Version 0.95, the very first, was released in 1995, and at the beginning of year 2020, we're at version 2.7.
 
 Generally, programs written in one version of Ruby will run just fine on another version, but sometimes incompatibilities can be encountered, meaning that particular program needs to be run with a specific version of Ruby.
 
