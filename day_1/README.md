@@ -38,7 +38,7 @@ This will open the day_1 directory in Atom. You should be able to see the direct
 
     1. Create a file within your `day_1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `ls`. If you are not, `cd` into your `day_1` directory. Once you are there, use the `touch` command in your terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth. Refer to back to [day_0](../Day_0) if you need a refresher on terminal commands.
 
-    1. Work through the lesson, **typing** the code into your file, and running it in the terminal with `ruby your_file_name.rb`, replaceing your_file_name.rb with the actual file name that you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", make sure you verify where you are located in the terminal- running `ls` should show the file you are trying to run.
+    1. Work through the lesson, **typing** the code into your file, and running it in the terminal with `ruby your_file_name.rb`, replaceing your_file_name.rb with the actual file name that you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", be sure to verify the directory you are located in via the terminal- running command `ls` should show the file you are trying to run.
 
     1. Complete the Study Drills listed at the end of the lesson.
 
@@ -60,17 +60,20 @@ This will open the day_1 directory in Atom. You should be able to see the direct
 
     - [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html) 
 
+    - [ ] Have you created 7 example files with your code in them?
+
 1. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
 
 ## Exercises
 - Each day contains an exercises directory containing files where you will practice writing code.
 
 Work through the files in the day_1/exercises directory.  Complete them in this order:
-    1. strings
-    1. numbers
-    1. variables
-    1. interpolation
-    1. loops
+    
+1. strings   
+1. numbers   
+1. variables   
+1. interpolation
+1. loops
 
 ## Questions
 - Each day contains a questions.md file where you will answer questions about what you have learned.

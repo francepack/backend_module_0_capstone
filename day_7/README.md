@@ -51,11 +51,13 @@ And with that form submission, ***you're done!!!*** Any feedback after this has 
 
 # Extension (optional, after capstone completed)
 
-You've finished your Mod 0 Capstone assignment! So you're done!!! Riiight?!?
+You've finished your Mod 0 Capstone assignment! So you're done!!! 
+
+But there's always more to learn!
 
 If you're interested in challenging yourself _even more_ and getting a step ahead in your coding abilities before your first day, we recommend working on either:
 
 - [A back-end grad's advice and useful study resources](https://josh.works/turing-backend-prep-01-intro)
 - [Credit Check](https://github.com/turingschool-examples/credit_check).
 
-If you do Credit Check, follow the [same steps](#forking-the-module-0-capstone-repository) as you did previously to fork and clone this repo on to your local computer.
+If you do Credit Check, follow the same steps as you did with your capstone to fork and clone the repo on to your local computer.
