@@ -36,7 +36,7 @@ This will open the day_1 directory in Atom. You should be able to see the direct
 
 1. Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial. *For ***each*** lesson* ***follow these directions closely***:
 
-    1. Create a file within your `day_1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `ls`. If you are not, `cd` into your `day_1` directory. Once you are there, user the `touch` command in your terminal to create a file. For the first lesson, call this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, and so on, so forth. Refer to `day_0` if you need a refresher on terminal commands.
+    1. Create a file within your `day_1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `ls`. If you are not, `cd` into your `day_1` directory. Once you are there, use the `touch` command in your terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth. Refer to back to [day_0](../Day_0) if you need a refresher on terminal commands.
 
     1. Work through the lesson, **typing** the code into your file, and running it in the terminal with `ruby your_file_name.rb`, replaceing your_file_name.rb with the actual file name that you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", make sure you verify where you are located in the terminal- running `ls` should show the file you are trying to run.
 
@@ -46,19 +46,19 @@ This will open the day_1 directory in Atom. You should be able to see the direct
 
 1. Check off the items below as you complete the steps you just read for each lesson:
 
-  - [ ] [A Good First Program](https://learnrubythehardway.org/book/ex1.html) 
+    - [ ] [A Good First Program](https://learnrubythehardway.org/book/ex1.html) 
 
-  - [ ] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
+    - [ ] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
 
-  - [ ] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html) 
+    - [ ] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html) 
 
-  - [ ] [Variables and Names](https://learnrubythehardway.org/book/ex4.html) 
+    - [ ] [Variables and Names](https://learnrubythehardway.org/book/ex4.html) 
 
-  - [ ] [Strings](https://learnrubythehardway.org/book/ex5.html)
+    - [ ] [Strings](https://learnrubythehardway.org/book/ex5.html)
 
-  - [ ] [More Strings](https://learnrubythehardway.org/book/ex6.html) 
+    - [ ] [More Strings](https://learnrubythehardway.org/book/ex6.html) 
 
-  - [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html) 
+    - [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html) 
 
 1. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
 

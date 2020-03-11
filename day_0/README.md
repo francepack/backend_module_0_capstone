@@ -60,9 +60,9 @@ Don't worry about putting any text into these files. For now, just create this s
 
 ### The rm Command
 
-Be careful when deleting something though the terminal! While it is very helpful, it cannot be undone. Lets learn more about the `rm` command before we use it:
+Be careful when deleting something though the terminal! While we want to be comfortable using the very helpful `rm` command, once executed, the command cannot be undone. Lets learn more about `rm` before we practice:
 
-* `rm`: This will remove a file from your system. Be very careful with this and always double check! The terminal assumes you're a little more of an expert than the system does. `rm` doesn't move the file to the Trash, it removes it completely from your system. It basically moves the file to the trash, then deletes it immediately with no chance to change your mind.
+* `rm`: This will remove a file from your system. Be very careful with this and always double check the file you target! The terminal assumes you're a little more of an expert than the system does. `rm` doesn't move the file to the Trash, it removes it completely from your system. It basically moves the file to the trash, then deletes it immediately. No chance to stop it or change your mind.
 
 * `rm -rf`: Adding the `-r` and `-f` flags to the `rm` command will allow you to delete directories even if they have other files and/or directories inside of them. For more information on each of these flags enter `man rm` into your terminal. It will print out the manual for this command.
 

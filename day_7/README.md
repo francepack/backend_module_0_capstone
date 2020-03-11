@@ -43,15 +43,15 @@ When you have completed *all* the activities described above, follow the steps b
 
     ![Create PR](https://i.imgur.com/CQQzfNc.png)
 
-1. Please complete ***[this form](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work)*** to submit your prework. Be sure to include links to your Professional Development pre-work gist, your Gear Up pre-work gist, and your technical pre-work GitHub repository. The link to your technical pre-work GitHub repository will look something like: `https://github.com/YOUR_GITHUB_USERNAME/backend_module_0_capstone`. (using your own GitHub username, of course!)
+1. ***[Please complete this form to submit your prework.](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work)*** Be sure to include links to your Professional Development pre-work gist, your Gear Up pre-work gist, and your technical pre-work GitHub repository. The link to your technical pre-work GitHub repository will look something like: `https://github.com/YOUR_GITHUB_USERNAME/backend_module_0_capstone`. (using your own GitHub username, of course!)
 
-And with that form submission, you're done! Any feedback will be Slacked to you. Can't wait to see you on the first day of class!!
+And with that form submission, ***you're done!!!*** Any feedback after this has been reviewed will be Slacked to you. Can't wait to see you on the first day of class!!
 
 ----------------------------------
 
 # Extension (optional, after capstone completed)
 
-So you're done! You've finished your Mod 0 Capstone assignment!
+You've finished your Mod 0 Capstone assignment! So you're done!!! Riiight?!?
 
 If you're interested in challenging yourself _even more_ and getting a step ahead in your coding abilities before your first day, we recommend working on either:
 

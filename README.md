@@ -236,7 +236,7 @@ To begin, open your terminal and `cd` into the `day_0` directory. Follow the ins
 
 # Extension (optional, after capstone completed)
 
-So you're done! You've finished your Mod 0 Capstone assignment!
+You've finished your Mod 0 Capstone assignment! So you're done!!! Riiight?!?
 
 If you're interested in challenging yourself _even more_ and getting a step ahead in your coding abilities before your first day, we recommend working on either:
 
